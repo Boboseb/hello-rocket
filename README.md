@@ -13,5 +13,13 @@ Projet d'exemple pour l'utilisation de Rocket
 ## 4. run
 `cargo run`
 
-## 5. http://localost:8000/
+## 5. tester avec un navigateur
+http://localhost:8000/
 
+http://localhost:8000/echo/Coucou
+
+http://localhost:8000/echo2/Coucou
+
+http://localhost:8000/favicon.ico
+
+http://localhost:8000/324/+/32465
